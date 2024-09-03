@@ -1,4 +1,3 @@
-# RMC-NNSR
 # Robust low-rank matrix completion via sparsity-inducing regularizer (SIR)
 
 This paper devises a novel SIR for robust matrix completion, and the SIR has closed-form proximity operator, which avoids iterations.
